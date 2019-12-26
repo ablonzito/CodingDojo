@@ -1,0 +1,6 @@
+C:\Users\Silva\source\repos\FizzBuzzCodingDojo\FizzBuzzCodingDojo\bin\Debug\FizzBuzzCodingDojo.exe.config
+C:\Users\Silva\source\repos\FizzBuzzCodingDojo\FizzBuzzCodingDojo\bin\Debug\FizzBuzzCodingDojo.exe
+C:\Users\Silva\source\repos\FizzBuzzCodingDojo\FizzBuzzCodingDojo\bin\Debug\FizzBuzzCodingDojo.pdb
+C:\Users\Silva\source\repos\FizzBuzzCodingDojo\FizzBuzzCodingDojo\obj\Debug\FizzBuzzCodingDojo.csprojAssemblyReference.cache
+C:\Users\Silva\source\repos\FizzBuzzCodingDojo\FizzBuzzCodingDojo\obj\Debug\FizzBuzzCodingDojo.exe
+C:\Users\Silva\source\repos\FizzBuzzCodingDojo\FizzBuzzCodingDojo\obj\Debug\FizzBuzzCodingDojo.pdb
